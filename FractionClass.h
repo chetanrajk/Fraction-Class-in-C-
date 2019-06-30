@@ -2,7 +2,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
 // FractionClass.h - Implements Fraction class with support for operations like              //
 // ver 1.0           addition, substraction, multiplication, division, equality/non-equality,//
-//				     greater than/less than and display                                      //
+//				     greater than/less than and display                      //
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
